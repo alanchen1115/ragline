@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic
+PyPDF2
+python-dotenv
+line-bot-sdk
+google-genai
